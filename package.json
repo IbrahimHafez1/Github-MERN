@@ -1,0 +1,32 @@
+{
+  "name": "github-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimHafez1/Github-MERN.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimHafez1/Github-MERN/issues"
+  },
+  "homepage": "https://github.com/IbrahimHafez1/Github-MERN#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "fetch": "^1.1.0",
+    "from": "^0.1.7",
+    "import": "^0.0.6",
+    "mongoose": "^8.2.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.1.0"
+  }
+}
